@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSteamSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\UE projects\Heavy Shell Breaker\Intermediate\Build\Win64\x64\UE_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"G:\UE projects\Heavy Shell Breaker\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"G:\UE projects\Heavy Shell Breaker\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"G:\UE projects\Heavy Shell Breaker\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"

@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\administrator\\documents\\ueedee\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\advancedgamesession.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\administrator\\documents\\ueedee\\intermediate\\build\\win64\\x64\\ue_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\administrator\\documents\\ueedee\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h",
+            "c:\\users\\administrator\\documents\\ueedee\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\classes\\advancedgamesession.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\online.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineidentityinterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinefriendsinterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineexternaluiinterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinemessageinterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlineerror.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\voiceinterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\source\\runtime\\signalprocessing\\public\\dsp\\multithreadedpatching.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinetitlefileinterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineentitlementsinterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineusercloudinterface.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamesession.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamesession.generated.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "d:\\epic games\\ue\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "c:\\users\\administrator\\documents\\ueedee\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\advancedgamesession.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

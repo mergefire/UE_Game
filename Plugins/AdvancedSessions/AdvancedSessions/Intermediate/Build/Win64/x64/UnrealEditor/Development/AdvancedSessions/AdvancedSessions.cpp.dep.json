@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\unreal projects\\ue_game\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\private\\advancedsessions.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\unreal projects\\ue_game\\intermediate\\build\\win64\\x64\\ue_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\unreal projects\\ue_game\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h",
+            "d:\\unreal\\unreal projects\\ue_game\\plugins\\advancedsessions\\advancedsessions\\source\\advancedsessions\\classes\\advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

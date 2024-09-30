@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\administrator\\documents\\ueedee\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\advancedsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\administrator\\documents\\ueedee\\intermediate\\build\\win64\\x64\\ue_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\administrator\\documents\\ueedee\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
